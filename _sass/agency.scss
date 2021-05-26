@@ -3,6 +3,39 @@
 
 // Global Components
 
+@font-face {
+    font-family: 'LeagueSpartan';
+    src: url('../assets/fonts/leaguespartan-bold.eot');
+    src: url('../assets/fonts/leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/leaguespartan-bold.woff2') format('woff2'),
+         url('../assets/fonts/leaguespartan-bold.woff') format('woff'),
+         url('../assets/fonts/leaguespartan-bold.ttf') format('truetype'),
+         url('../assets/fonts/leaguespartan-bold.svg#league_spartanbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LibreBaskerville';
+    src: url('../assets/fonts/LibreBaskerville-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LibreBaskerville';
+    src: url('../assets/fonts/LibreBaskerville-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LibreBaskerville';    
+    src: url('../assets/fonts/LibreBaskerville-Italics.ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
 body {
     overflow-x: hidden;
     @include body-font;
@@ -113,6 +146,7 @@ h1, h2, h3, h4, h5, h6 {
                 @include heading-font;
                 font-weight: 400;
                 letter-spacing: 1px;
+                text-align: right;
                 color: white;
                 &:hover,
                 &:focus {
@@ -327,6 +361,7 @@ section {
 .timeline {
     list-style: none;
     padding: 0;
+    padding-bottom: 50px;
     position: relative;
     &:before {
         top: 0;
@@ -355,7 +390,7 @@ section {
             float: right;
             padding: 0 40px 0 130px;
             position: relative;
-            text-align: left;
+            text-align: center;
             &:before {
                 border-left-width: 0;
                 border-right-width: 30px;
@@ -389,7 +424,7 @@ section {
         }
         &.timeline-inverted > .timeline-panel {
             float: right;
-            text-align: left;
+            text-align: center;
             padding: 0 40px 0 130px;
             &:before {
                 border-left-width: 0;
@@ -437,7 +472,7 @@ section {
                 width: 41%;
                 float: left;
                 padding: 0 40px 40px 30px;
-                text-align: left;
+                text-align: center;
             }
             .timeline-image {
                 width: 150px;
@@ -452,7 +487,7 @@ section {
             }
             &.timeline-inverted > .timeline-panel {
                 float: right;
-                text-align: left;
+                text-align: center;
                 padding: 0 40px 40px 30px;
             }
         }
@@ -567,6 +602,7 @@ section#contact {
 footer {
     padding: 25px 0;
     text-align: center;
+    font-size: medium;
     span.copyright {
         line-height: 40px;
         @include heading-font;
