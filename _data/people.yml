@@ -22,7 +22,7 @@
   text: "Kyle's interests broadly encompass large scale patterns of animal evolution but usually involve whole genome duplication events to some extent. He is also interested in computational tools which seek to understand non-model taxa, as well as assess how overreliance on model systems may bias current methods."
   side: right
 
-- name: "Caitlin Redak<br /><p style="font-family:Avenir; font-size:1em;">Ph.D. Candidate</p>"
+- name: Caitlin Redak<br /><p style="font-family:Avenir; font-size:1em;">Ph.D. Candidate</p>
   image: "Caitlin.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
@@ -34,7 +34,7 @@
   text: "Oluchi is broadly interested in using different omics tools to study the interaction (pathogenic and non-pathogenic) between microbes and multicellular organisms as well as understand their roles in different environments."
   side: right
 
-- name: "Yu Sun, M.Sc.<br /><p style="font-family:Avenir; font-size:1em;">Ph.D. Student</p>"
+- name: Yu Sun, M.Sc.<br /><p style="font-family:Avenir; font-size:1em;">Ph.D. Student</p>
   image: "Yu.JPG"
   img-alt: "image description"
   text: "Yu graduated from Ocean University of China in 2019 with a master's degree. Her primary research is on the mitochondria of seastars. She is captivated by the evolutionary relationships in echinoderms. She is interested in using molecular and morphological data to investigate the systematics, phylogeography, population genetics, and comparative biology of invertebrate animals."
@@ -46,7 +46,7 @@
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: right
 
-- name: "Damien S. Waits, M.Sc.<br /><p style="font-family:Avenir; font-size:1em;">Technician</p>"
+- name: Damien S. Waits, M.Sc.<br /><p style="font-family:Avenir; font-size:1em;">Technician</p>
   image: "Damien.jpg"
   img-alt: "image description"
   text: "Damien enjoys solving problems through computional solutions. He is broadly interested in the evolution and genetics of animals with unique lifestyles such as deep-sea chemosynthetic organisms and their adaptations to their unique environment. He also enjoys getting his hands dirty, whether that's sampling on a vessel or maintaining a research station."
