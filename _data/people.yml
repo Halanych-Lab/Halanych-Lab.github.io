@@ -4,49 +4,49 @@
   text: "Ken is broadly interested in marine invertebrate evolution. By combining genomic and bioinformatic tools with organismal biology, he has explored questions of deep animal phylogeny, chemosynthetic ecosystems, population genomics, and Antarctic biology. He is involved on a number of fronts with promoting the use of genomic and informatics to better understand marine systems. Those interested in joining the lab should contact him."
   side: left
 
-- name: <a href="https://scholar.google.com/citations?user=73yWhrkAAAAJ&hl=en&oi=ao">Candace J. Grimes, Ph.D.<br /><p style="font-family:LeagueSpartan; font-size:1em;">Post-Doc</p></a>
+- name: <a href="https://scholar.google.com/citations?user=73yWhrkAAAAJ&hl=en&oi=ao">Candace J. Grimes, Ph.D.<br /><p style="font-family:Helvetica; font-size:1em;">Post-Doc</p></a>
   image: "Candace.png"
   img-alt: "image description"
   text: "Candace enjoys investigating how marine invertebrates have adapted and evolved to cope with environmental stressors. She is interested in studying these responses at all levels of scale, from genes to geographic distributions."
   side: right
 
-- name: <a href="https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en&oi=ao">Michael G. Tassia<br /><p style="font-family:LeagueSpartan; font-size:1em;">Ph.D. Candidate</p></a>
+- name: <a href="https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en&oi=ao">Michael G. Tassia<br /><p style="font-family:Helvetica; font-size:1em;">Ph.D. Candidate</p></a>
   image: "Mike.jpg"
   img-alt: "image description"
   text: "Mike's dissertation focuses on the evolution of metazoan immune systems. Broadly, he is interested in all the strange, enigmatic marine invertebrates that bend the rules of how we think biology 'ought to work.'"
   side: left
 
-- name: <a href="https://kyletdavid.github.io/">Kyle T. David<br /><p style="font-family:LeagueSpartan; font-size:1em;">Ph.D. Candidate</p></a>
+- name: <a href="https://kyletdavid.github.io/">Kyle T. David<br /><p style="font-family:Helvetica; font-size:1em;">Ph.D. Candidate</p></a>
   image: "Kyle.jpg"
   img-alt: "image description"
   text: "Kyle's interests broadly encompass large scale patterns of animal evolution but usually involve whole genome duplication events to some extent. He is also interested in computational tools which seek to understand non-model taxa, as well as assess how overreliance on model systems may bias current methods."
   side: right
 
-- name: Caitlin Redak<br /><p style="font-family:LeagueSpartan; font-size:1em;">Ph.D. Candidate</p>
+- name: Caitlin Redak<br /><p style="font-family:Helvetica; font-size:1em;">Ph.D. Candidate</p>
   image: "Caitlin.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: left
 
-- name: <a href="https://github.com/clavia96">Oluchi L. Oyekwe<br /><p style="font-family:LeagueSpartan; font-size:1em;">Ph.D. Student</p></a>
+- name: <a href="https://github.com/clavia96">Oluchi L. Oyekwe<br /><p style="font-family:Helvetica; font-size:1em;">Ph.D. Student</p></a>
   image: "Oluchi.jpg"
   img-alt: "image description"
   text: "Oluchi is broadly interested in using different omics tools to study the interaction (pathogenic and non-pathogenic) between microbes and multicellular organisms as well as understand their roles in different environments."
   side: right
 
-- name: Yu Sun, M.Sc.<br /><p style="font-family:LeagueSpartan; font-size:1em;">Ph.D. Student</p>
+- name: Yu Sun, M.Sc.<br /><p style="font-family:Helvetica; font-size:1em;">Ph.D. Student</p>
   image: "Yu.JPG"
   img-alt: "image description"
   text: "Yu graduated from Ocean University of China in 2019 with a master's degree. Her primary research is on the mitochondria of seastars. She is captivated by the evolutionary relationships in echinoderms. She is interested in using molecular and morphological data to investigate the systematics, phylogeography, population genetics, and comparative biology of invertebrate animals."
   side: left
 
-- name: Kyle B. Donnelly<br /><p style="font-family:LeagueSpartan; font-size:1em;">Master's Student</p>
+- name: Kyle B. Donnelly<br /><p style="font-family:Helvetica; font-size:1em;">Master's Student</p>
   image: "KyleDon.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: right
 
-- name: Damien S. Waits, M.Sc.<br /><p style="font-family:LeagueSpartan; font-size:1em;">Technician</p>
+- name: Damien S. Waits, M.Sc.<br /><p style="font-family:Helvetica; font-size:1em;">Technician</p>
   image: "Damien.jpg"
   img-alt: "image description"
   text: "Damien enjoys solving problems through computional solutions. He is broadly interested in the evolution and genetics of animals with unique lifestyles such as deep-sea chemosynthetic organisms and their adaptations to their unique environment. He also enjoys getting his hands dirty, whether that's sampling on a vessel or maintaining a research station."
