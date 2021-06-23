@@ -25,7 +25,7 @@
 - name: <p style="font-family:Helvetica; font-size:1em;">Caitlin Redak<br />Ph.D. Candidate</p>
   image: "Caitlin.jpg"
   img-alt: "image description"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  text: "Caitlin Redak is a PhD student studying population genomics of marine invertebrates. She is interested in understanding how different relationships between populations influence evolutionary pressures and utilizing population genomics to aid in conservation."
   side: left
 
 - name: <p style="font-family:Helvetica; font-size:1em;"><a href="https://github.com/clavia96">Oluchi L. Oyekwe<br />Ph.D. Student</p></a>
