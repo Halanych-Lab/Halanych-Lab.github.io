@@ -10,18 +10,6 @@
   text: "Candace enjoys investigating how marine invertebrates have adapted and evolved to cope with environmental stressors. She is interested in studying these responses at all levels of scale, from genes to geographic distributions."
   side: right
 
-- name: <p style="font-family:Helvetica; font-size:1em;"><a href="https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en&oi=ao">Michael G. Tassia, Ph.D.<br /></p></a>
-  image: "Mike.jpg"
-  img-alt: "image description"
-  text: "Mike's dissertation focuses on the evolution of metazoan immune systems. Broadly, he is interested in all the strange, enigmatic marine invertebrates that bend the rules of how we think biology 'ought to work.'"
-  side: left
-
-- name: <p style="font-family:Helvetica; font-size:1em;"><a href="https://kyletdavid.github.io/">Kyle T. David<br />Ph.D. Candidate</p></a>
-  image: "Kyle.jpg"
-  img-alt: "image description"
-  text: "Kyle's interests broadly encompass large scale patterns of animal evolution but usually involve whole genome duplication events to some extent. He is also interested in computational tools which seek to understand non-model taxa, as well as assess how overreliance on model systems may bias current methods."
-  side: right
-
 - name: <p style="font-family:Helvetica; font-size:1em;">Caitlin Redak<br />Ph.D. Candidate</p>
   image: "Caitlin.jpg"
   img-alt: "image description"
