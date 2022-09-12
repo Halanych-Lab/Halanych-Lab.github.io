@@ -33,9 +33,3 @@
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
   side: right
-
-- name: <p style="font-family:Helvetica; font-size:1em;">Damien S. Waits, M.Sc.<br />Technician</p>
-  image: "Damien.jpg"
-  img-alt: "image description"
-  text: "Damien enjoys solving problems through computional solutions. He is broadly interested in the evolution and genetics of animals with unique lifestyles such as deep-sea chemosynthetic organisms and their adaptations to their unique environment. He also enjoys getting his hands dirty, whether that's sampling on a vessel or maintaining a research station."
-  side: left
