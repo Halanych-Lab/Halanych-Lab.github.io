@@ -22,14 +22,14 @@
   text: "Oluchi is broadly interested in using different omics tools to study the interaction (pathogenic and non-pathogenic) between microbes and multicellular organisms as well as understand their roles in different environments."
   side: right
 
-- name: <p style="font-family:Helvetica; font-size:1em;">Yu Sun, M.Sc.<br />Ph.D. Student</p>
-  image: "Yu.JPG"
-  img-alt: "image description"
-  text: "Yu graduated from Ocean University of China in 2019 with a master's degree. Her primary research is on the mitochondria of seastars. She is captivated by the evolutionary relationships in echinoderms. She is interested in using molecular and morphological data to investigate the systematics, phylogeography, population genetics, and comparative biology of invertebrate animals."
-  side: left
-
 - name: <p style="font-family:Helvetica; font-size:1em;">Kyle B. Donnelly<br />Master's Student</p>
   image: "KyleDon.jpg"
   img-alt: "image description"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend lobortis nisi in convallis. Aenean vel sapien at sapien tempus iaculis eget eget elit. Cras sollicitudin pretium metus, in efficitur metus aliquet condimentum. "
+  side: left
+
+- name: <p style="font-family:Helvetica; font-size:1em;">Harrison Mancke<br />Ph.D. Student</p>
+  image: "Harrison.jpg"
+  img-alt: "image description"
+  text: "Harrison Mancke is a Ph.D. student studying the visual systems of marine annelids. She is interested in using visual transcriptomes to understand how different photosystems function and evolve at varying geographic distribution."
   side: right
