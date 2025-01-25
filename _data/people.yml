@@ -10,24 +10,6 @@
   text: "Candace enjoys investigating how marine invertebrates have adapted and evolved to cope with environmental stressors. She is interested in studying these responses at all levels of scale, from genes to geographic distributions."
   side: right
 
-- name: <p style="font-family:Helvetica; font-size:1em;">Caitlin Redak<br />Ph.D. Candidate</p>
-  image: "Caitlin.jpg"
-  img-alt: "image description"
-  text: "Caitlin Redak is a PhD student studying population genomics of marine invertebrates. She is interested in understanding how different relationships between populations influence evolutionary pressures and utilizing population genomics to aid in conservation."
-  side: left
-
-- name: <p style="font-family:Helvetica; font-size:1em;"><a href="https://github.com/clavia96">Oluchi L. Oyekwe<br />Ph.D. Student</p></a>
-  image: "Oluchi.jpg"
-  img-alt: "image description"
-  text: "Oluchi is broadly interested in using different omics tools to study the interaction (pathogenic and non-pathogenic) between microbes and multicellular organisms as well as understand their roles in different environments."
-  side: right
-
-- name: <p style="font-family:Helvetica; font-size:1em;">Kyle B. Donnelly<br />Master's Student</p>
-  image: "KyleDon.jpg"
-  img-alt: "image description"
-  text: "Kyle Donnelly studies the effect of environmental factors on benthic invertebrate community composition and the differential gene expression of toxin-producing cyanobacteria as they are exposed to varying salinities. "
-  side: left
-
 - name: <p style="font-family:Helvetica; font-size:1em;">Harrison Mancke<br />Ph.D. Student</p>
   image: "Harrison.jpg"
   img-alt: "image description"
